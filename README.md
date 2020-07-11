@@ -11,7 +11,12 @@ installer:https://raw.githubusercontent.com/ajatan/memo-s-project/master/downloa
 *
 *
 # install - exe
-![alert](![秋田犬](https://github.com/ajatan/memo-s-project/blob/master/image/exe%20alert%201.png)
+![alert](https://github.com/ajatan/memo-s-project/blob/master/image/exe%20alert%201.png)
+
+Click Details, then click Run
+![alert](https://github.com/ajatan/memo-s-project/blob/master/image/exe%20alert%202.png)
+
+If it is started, it is successful
 # install - installer
 
 # Terms

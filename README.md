@@ -4,10 +4,8 @@ download sourcecode
 
 
 # download
-exe:
-https://raw.githubusercontent.com/ajatan/memo-s-project/master/downloads/Memo.exe
-installer:
-https://raw.githubusercontent.com/ajatan/memo-s-project/master/downloads/memo%20installer.zip
+exe:https://raw.githubusercontent.com/ajatan/memo-s-project/master/downloads/Memo.exe
+installer:https://raw.githubusercontent.com/ajatan/memo-s-project/master/downloads/memo%20installer.zip
 # download sourcecode
 *
 *

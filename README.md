@@ -5,8 +5,8 @@ download [sourecode](https://github.com/ajatan/memo-s-project/blob/master/README
 
 
 # download
-exe:https://raw.githubusercontent.com/ajatan/memo-s-project/master/downloads/Memo.exe
-installer:https://raw.githubusercontent.com/ajatan/memo-s-project/master/downloads/memo%20installer.zip
+download [exe](https://raw.githubusercontent.com/ajatan/memo-s-project/master/downloads/Memo.exe)
+download [installer](https://raw.githubusercontent.com/ajatan/memo-s-project/master/downloads/memo%20installer.zip)
 # download sourcecode
 https://raw.githubusercontent.com/ajatan/memo-s-project/master/sourcecode/Memo.zip
 # install - exe

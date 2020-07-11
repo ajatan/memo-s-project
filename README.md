@@ -10,6 +10,10 @@ installer:https://raw.githubusercontent.com/ajatan/memo-s-project/master/downloa
 *
 *
 *
+# install - exe
+
+# install - installer
+
 # Terms
 Secondary distribution and commercial use not allowed.
 # A word

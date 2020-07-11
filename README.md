@@ -7,9 +7,7 @@ download sourcecode
 exe:https://raw.githubusercontent.com/ajatan/memo-s-project/master/downloads/Memo.exe
 installer:https://raw.githubusercontent.com/ajatan/memo-s-project/master/downloads/memo%20installer.zip
 # download sourcecode
-*
-*
-*
+https://raw.githubusercontent.com/ajatan/memo-s-project/master/sourcecode/Memo.zip
 # install - exe
 ![alert](https://github.com/ajatan/memo-s-project/blob/master/image/exe%20alert%201.png)
 
@@ -20,6 +18,7 @@ Click Details, then click Run
 If it is started, it is successful
 # install - installer
 
+![alert](![alert](https://github.com/ajatan/memo-s-project/blob/master/image/exe%20alert%202.png)
 # Terms
 Secondary distribution and commercial use not allowed.
 # comment

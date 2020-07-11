@@ -1,6 +1,6 @@
 # memo-s-project
-download [exe or installer]https://github.com/ajatan/memo-s-project/blob/master/README.md#download
-download [sourecode]https://github.com/ajatan/memo-s-project/blob/master/README.md#download-sourcecode
+download [exe or installer](https://github.com/ajatan/memo-s-project/blob/master/README.md#download)
+download [sourecode](https://github.com/ajatan/memo-s-project/blob/master/README.md#download-sourcecode)
 
 
 # download

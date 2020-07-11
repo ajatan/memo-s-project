@@ -11,7 +11,7 @@ installer:https://raw.githubusercontent.com/ajatan/memo-s-project/master/downloa
 *
 *
 # install - exe
-
+![alert](![秋田犬](https://github.com/yoshitaku-jp/test_doc/blob/images/dog_akitainu.png)
 # install - installer
 
 # Terms

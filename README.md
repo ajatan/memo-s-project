@@ -18,7 +18,8 @@ Click Details, then click Run
 If it is started, it is successful
 # install - installer
 
-![alert](![alert](https://github.com/ajatan/memo-s-project/blob/master/image/exe%20alert%202.png)
+![alert](https://github.com/ajatan/memo-s-project/blob/master/image/installer%20alert.png)
+
 # Terms
 Secondary distribution and commercial use not allowed.
 # comment

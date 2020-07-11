@@ -22,5 +22,5 @@ If it is started, it is successful
 
 # Terms
 Secondary distribution and commercial use not allowed.
-# A word
+# comment
 I would be happy if you could share it.

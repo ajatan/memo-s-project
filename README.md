@@ -20,7 +20,7 @@ If it is started, it is successful
 
 ![alert](https://github.com/ajatan/memo-s-project/blob/master/image/installer%20alert.png)
 
-# Terms
+# terms of use
 Secondary distribution and commercial use not allowed.
 # comment
 I would be happy if you could share it.

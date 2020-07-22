@@ -21,7 +21,9 @@ If it is started, it is successful
 # install - installer
 
 ![alert](https://github.com/ajatan/memo-s-project/blob/master/image/installer%20alert.png)
+
 Click install
+
 It is successful when started
 # terms of use
 Secondary distribution and commercial use not allowed.
@@ -47,7 +49,9 @@ https://raw.githubusercontent.com/ajatan/memo-s-project/master/sourcecode/Memo.z
 # インストール - インストーラー版
 
 ![alert](https://github.com/ajatan/memo-s-project/blob/master/image/installer%20alert.png)
+
 インストールをクリックして下さい
+
 起動したら成功です
 # 利用規約
 二次配布および商用利用はやめて下さい

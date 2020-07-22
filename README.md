@@ -1,4 +1,5 @@
 # memo-s-project
+[japanese](https://github.com/ajatan/memo-s-project/blob/master/README.md#japanese)
 
 This software is open source
 

@@ -36,7 +36,7 @@ I would be happy if you could share it.
 
 # メモ―ずプロジェクト
 
-# ダウンロードソースコード
+# ソースコードをダウンロード
 https://raw.githubusercontent.com/ajatan/memo-s-project/master/sourcecode/Memo.zip
 # インストール - exe版
 ![alert](https://github.com/ajatan/memo-s-project/blob/master/image/exe%20alert%201.png)
